@@ -1,0 +1,12 @@
+body{
+    background: url(man_smoke.jpg) no-repeat center fixed black; 
+    height: 1000px; 
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-size:32px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 4px;
+    font-weight: bold;
+    
+}
